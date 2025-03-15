@@ -2,8 +2,6 @@
 
 Monitor de criptomoedas em tempo real diretamente no seu terminal! Desenvolvido com Python + Textual.  
 
-![Dashboard Preview](link_para_seu_gif.gif) *→ Substitua pelo GIF gerado anteriormente*
-
 ---
 
 ## ✨ Funcionalidades  
